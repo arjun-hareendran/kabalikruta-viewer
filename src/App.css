@@ -1,0 +1,75 @@
+.home_wrapper {
+  width: 900px;
+  height: 400px;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.extract_wrapper {
+  position: "relative";
+  width: auto;
+  height: 400px;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+
+.pannel {
+  position: relative;
+  width: 600px;
+  height: 300px;
+  top: 10%;
+  left: 20%;
+  border-radius: 25px;
+}
+
+.pannel_content {
+  position: relative;
+  top: 10%;
+  left: 10%;
+  width: 400px;
+  height: 300px;
+  border-radius: 25px;
+  background: #e3e5e6;
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.ui_elements {
+  position: relative;
+  top: 30%;
+  left: 10%;
+}
+
+.column_details_wrapper {
+  position: relative;
+  margin-top: 10%;
+  top: 10%;
+  left: 10%;
+}
+
+.page_not_found_wrapper {
+  position: relative;
+  width: auto;
+  height: 300px;
+  margin-top: 15%;
+  margin-left: 10%;
+  border-radius: 25px;
+}
+
+.label_wrapper {
+  width: 50px;
+}
+
+.extract_column_width_wrapper {
+  width: 10;
+}
+
+.label_wrapper {
+  width: auto;
+  display: inline-block;
+}
+
+.label_content_wrapper {
+  width: 180px;
+  text-transform: uppercase;
+  display: inline-block;
+}
